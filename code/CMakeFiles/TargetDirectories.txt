@@ -1,0 +1,3 @@
+/home/eve/Documents/Personal/c/learnopengl/code/CMakeFiles/learn_opengl.dir
+/home/eve/Documents/Personal/c/learnopengl/code/CMakeFiles/edit_cache.dir
+/home/eve/Documents/Personal/c/learnopengl/code/CMakeFiles/rebuild_cache.dir
